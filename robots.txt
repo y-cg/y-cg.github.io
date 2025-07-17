@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://y-cg.github.io/sitemap-index.xml
